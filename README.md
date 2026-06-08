@@ -154,6 +154,9 @@ Every bug report makes this better for everyone.
 
 ---
 
+<img width="1016" height="745" alt="image" src="https://github.com/user-attachments/assets/a9289392-76ad-478a-a20e-e168d2cdca63" />
+
+
 <p align="center">
   <sub>Built by <a href="https://github.com/Tarunya0704">Tarunya</a> · Powered by Playwright + pixelmatch + SSIM</sub>
 </p>
