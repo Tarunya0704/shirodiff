@@ -148,7 +148,7 @@ Paid tiers coming later for teams that need unlimited repos, AI analysis, and pr
 This is early. Things will break. When they do:
 
 - [Open an issue](../../issues) with the error from the PR comment (shiroDiff always reports what went wrong)
-- Or DM [@Tarunya0704](https://twitter.com/Tarunya0704) on Twitter
+- Or DM [@Tarunya200407](https://twitter.com/Tarunya200407) on Twitter
 
 Every bug report makes this better for everyone.
 
