@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="shiroDiff" width="80" />
+  <img src="https://gemini.google.com/share/5e3b0349cf9a" alt="shiroDiff" width="80" />
 </p>
 
 <h1 align="center">shiroDiff</h1>
