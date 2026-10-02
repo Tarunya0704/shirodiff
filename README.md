@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Catch visual regressions before they ship.</strong><br>
-  A GitHub bot that screenshots your pages before and after every PR, diffs them pixel-by-pixel, and posts the results. Zero config.
+  A GitHub  app that screenshots your pages before and after every PR, diffs them pixel-by-pixel, and posts the results. Zero config.
 </p>
 
 <p align="center">
