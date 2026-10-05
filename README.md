@@ -137,6 +137,8 @@ shiroDiff reports three scores, each catching different types of regressions:
 
 ## Pricing
 
+Till now we have 14 installs and counting 
+
 **Free during beta.** Install it, use it, break it, tell us what's missing.
 
 Paid tiers coming later for teams that need unlimited repos, AI analysis, and priority support.
