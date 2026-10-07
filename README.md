@@ -137,7 +137,7 @@ shiroDiff reports three scores, each catching different types of regressions:
 
 ## Pricing
 
-Till now we have 14 installs and counting 
+Till now we have 14 installs and counting ...
 
 **Free during beta.** Install it, use it, break it, tell us what's missing.
 
