@@ -147,6 +147,8 @@ Paid tiers coming later for teams that need unlimited repos, AI analysis, and pr
 
 ## Feedback & issues
 
+always welcome
+
 This is early. Things will break. When they do:
 
 - [Open an issue](../../issues) with the error from the PR comment (shiroDiff always reports what went wrong)
